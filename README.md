@@ -23,8 +23,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Github Repo]()
-- Live Site URL: [Live Preview]()
+- Solution URL: [Github Repo](https://github.com/jahongirdev/profile-card-component-main)
+- Live Site URL: [Live Preview](https://frontendmentor-profile-component.netlify.app/)
 
 ### Built with
 
